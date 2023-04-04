@@ -31,6 +31,22 @@ const quizData = [
         d: "none of the above",
         correct: "b",
     },
+    {
+        question: "What year did Indonesia become independent ?",
+        a: "1995",
+        b: "1955",
+        c: "1945",
+        d: "none of the above",
+        correct: "c",
+    },
+    {
+        question: "Are you ok ??",
+        a: "I'm Fine",
+        b: "Sure",
+        c: "not bad",
+        d: "NO I'M NOT",
+        correct: "d",
+    },
 ];
 
 const quiz = document.getElementById('quiz')
